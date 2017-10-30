@@ -19,4 +19,4 @@ algoritmo de luhn.
   los numeros de esa variable y guardala en otra variable que se llamara newArreg
 3.Despues multiplicar por 2 los todo los numeros pares y el resultado es mayor o igual
 a 10  sumar los digitos del misno resultado.
-![DIAGRAMA DE FLUJO](diagrama.jpg)
+![DIAGRAMA DE FLUJO](imagen2.png)
